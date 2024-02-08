@@ -55,7 +55,7 @@ const Data = () => {
                 <h3 className="home__subtitle">Full-Stack Developer</h3>
                 <p className="home__description">Web developer with experience in React, Angular, Spring boot and Django</p>
                 <div>&nbsp;</div>
-                <a href="#connect" className="button button--flex">Let's Connect!<svg
+                <a href="#contact" className="button button--flex">Let's Connect!<svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"

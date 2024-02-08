@@ -13,16 +13,16 @@ function App() {
   return (
     <>
     <Header />
-    <main className='main'>
+      <main className='main'>
 
-      <Home />
-      <About />
-      <Qualification />
-      <Skills />
-      <Portfolio/>
-      <Contact />
-      
-    </main>
+        <Home />
+        <About />
+        <Qualification />
+        <Skills />
+        <Portfolio/>
+        <Contact />
+        
+      </main>
     <Footer/>
     </>
   );

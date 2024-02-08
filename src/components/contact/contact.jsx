@@ -26,19 +26,19 @@ const contact = () => {
                     </a>
                 </div> */}
                 <div className="card__style">
-                    <a href='https://www.linkedin.com/in/prathamesh-shukla-002919207/' target='_blank'>
+                    <a href='https://leetcode.com/psshukla02/' target='_blank'>
                         <img src={leetcode} className="card__bttn">
                         </img>
                     </a>
                 </div>
                 <div className="card__style">
-                    <a href='https://www.linkedin.com/in/prathamesh-shukla-002919207/' target='_blank'>
+                    <a href='https://www.hackerrank.com/profile/psshukla02/' target='_blank'>
                         <img src={hackerrank} className="card__bttn">
                         </img>
                     </a>
                 </div>
                 <div className="card__style">
-                    <a href='https://www.linkedin.com/in/prathamesh-shukla-002919207/' target='_blank'>
+                    <a href='https://www.youtube.com/minetech/' target='_blank'>
                         <img src={youtube} className="card__bttn">
                         </img>
                     </a>

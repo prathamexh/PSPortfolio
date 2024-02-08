@@ -1,6 +1,6 @@
 import React from 'react';
 import "./footer.css";
-import { FiTwitter, FiGithub, FiLinkedin, FiYoutube } from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiYoutube } from 'react-icons/fi';
 
 const Footer = () => {
   return (
@@ -31,7 +31,7 @@ const Footer = () => {
                 </a>    
             </div>
             <div className="built"><i class='bx bxl-react'></i> </div>
-            <span className="footer__copy"></span>
+            {/* <span className="footer__copy"></span> */}
         </div>
     </footer>
   );

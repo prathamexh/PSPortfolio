@@ -73,7 +73,7 @@ body, button, input, textarea {
 }
 
 body {
-    background-color: var(--body-color);
+    background-color: black;
     color: var(--text-color);
 }
 
@@ -179,13 +179,16 @@ img {
     .section {
         padding: 2rem 0 4rem;
     }
-
+    
     .section__subtitle {
         margin-bottom: var(--mb-3);
     }
 }
 
 @media screen and (max-width: 576px) {
+    .main{
+        background-color: black;
+    }
 }
 
 @media screen and (max-width: 350px) {
